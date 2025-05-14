@@ -6,7 +6,7 @@ export const projectsData = [
     image: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     category: 'web',
     technologies: ['React', 'Node.js', 'Supabase'],
-    github: 'https://github.com/',
-    demo: 'https://example.com/'
+    github: 'https://github.com/danielholley/portfolio',
+    demo: 'https://www.danielholley.net/'
   }
 ];
